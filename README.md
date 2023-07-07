@@ -1,4 +1,4 @@
-# Bio README
+# About Me
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Myself+Mustafa%2C+a+Web+Developer.;Passionate+about+creating+amazing+web+experiences.;Constantly+learning+and+exploring+new+technologies.;Let's+build+something+awesome!++++++++++)](https://github.com/B-Mustafa)
 
